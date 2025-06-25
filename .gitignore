@@ -1,0 +1,8 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Config/output
+config.json
+*.xlsx
+*.csv
