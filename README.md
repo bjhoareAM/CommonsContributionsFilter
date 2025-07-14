@@ -1,6 +1,6 @@
 # CommonsContributionsFilter
 
-**Pattypan Upload Checker for Wikimedia Commons**  
+**Upload Method Checker for Wikimedia Commons**  
 This tool checks your Wikimedia Commons uploads for a given pattern (e.g. `"pattypan"`) in the edit summary and exports the matching uploads to Excel or CSV.
 
 ---
